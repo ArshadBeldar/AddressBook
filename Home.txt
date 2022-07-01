@@ -1,0 +1,4 @@
+Raj,Shah,MeeraNagar,Shahada,MH,121212,1234567890,raj@gmail.com
+Arshad,Beldar,Kukdel,Shahada,MH,123123,5654565456,arshad@gmail.com
+Hitesh,Suryawanshi,Sonvad,Shahada,MH,456456,1234123467,hitesh@gmail.com
+Vinu,Marathe,Mhasavad,Shahada,MH,987987,9809890989,vinu@gmailcom
