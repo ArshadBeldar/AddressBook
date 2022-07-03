@@ -5,13 +5,12 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class SubstractionTest {
+class DivisionTest {
 
     @Test
-    void sub() {
-        Substraction substraction = new Substraction();
+    void div() {
+        Division division = new Division();
 
-        Assertions.assertEquals(10,substraction.sub(50,40));
-
+        Assertions.assertEquals(1,division.div(10,10));
     }
 }
